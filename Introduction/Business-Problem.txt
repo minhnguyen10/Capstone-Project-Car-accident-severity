@@ -1,2 +1,4 @@
  Road traffic accidents are financially costly in medical costs. 
- By identifying the circumstances of the accidents that influenced the severity is an importance job
+ By identifying the circumstances of the accidents that influenced the severity is an importance job.
+ My project will try to see which factors will eventually affect the severity of the accident most by using several Machine Learning model
+ 
