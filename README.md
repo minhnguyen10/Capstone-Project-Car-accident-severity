@@ -10,7 +10,7 @@ We can begin to study data from past accidents to gain insight understanding of 
 
 The two main stakeholders of building this kind of model are (1) Public Authority of Seattle, who may be able to use the result improve their road planning and traffic calming strategies and (3) drivers, who will be warned to avoid future accidents
 
-# 2. Data
+# 2. Dataset
 The dataset used for this project is a comprehensive dataset of 194,673 accidents occurring between 2004–present in the Seattle city area that could be obtain from [here](https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv). The data contains the severity of each car accidents along with the time and conditions of the accident. Severity Code was the target of this project. It was in the form of 1 - Property Damage Only and 2 - Physical Injury, which are encoded to the form of 0 and 1 consecutively. 
 
 ### Feature selection:
@@ -26,6 +26,8 @@ The dataset used for this project is a comprehensive dataset of 194,673 accident
  
 
 # 3. Methodology
+## 3.1. Data Exploration
+## 3.2. Model Development and Evaluation
 
 # 4.Result
 
