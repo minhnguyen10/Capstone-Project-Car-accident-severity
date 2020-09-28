@@ -15,7 +15,7 @@ The dataset used for this project is a comprehensive dataset of 194,673 accident
 
 ### Feature selection:
 
-**COLLISIONTYPE:**  Collision type
+**COLLISIONTYPE:**  Collision type  
 **WEATHER:** A description of the weather conditions during the time of the collision  
 **ROADCOND:** The condition of the road during the collision  
 **LIGHTCOND:** The light conditions during the collision  
