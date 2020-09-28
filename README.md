@@ -13,8 +13,17 @@ The two main stakeholders of building this kind of model are (1) Public Authorit
 # 2. Data
 The dataset used for this project is a comprehensive dataset of 194,673 accidents occurring between 2004–present in the Seattle city area that could be obtain from [here](https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv). The data contains the severity of each car accidents along with the time and conditions of the accident. Severity Code was the target of this project. It was in the form of 1 - Property Damage Only and 2 - Physical Injury, which are encoded to the form of 0 and 1 consecutively. 
 
-## Feature selection:
+### Feature selection:
 
+**COLLISIONTYPE:**  Collision type
+**WEATHER:** A description of the weather conditions during the time of the collision  
+**ROADCOND:** The condition of the road during the collision  
+**LIGHTCOND:** The light conditions during the collision  
+**INATTENTIONIND:** Whether or not collision was due to inattention. (Y/N)  
+**UNDERINFL:** Whether or not a driver involved was under the influence of drugs or alcohol  
+**SPEEDING:**  Whether or not speeding was a factor in the collision  
+**SEVERITYCODE:** Target - A code that corresponds to the severity of the collision  
+ 
 
 # 3. Methodology
 
