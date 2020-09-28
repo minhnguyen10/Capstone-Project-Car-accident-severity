@@ -34,5 +34,5 @@ The dataset used for this project is a comprehensive dataset of 194,673 accident
 # 5.Conclusion
 
 # Sources
-1. [https://www.cdc.gov/publichealthgateway/didyouknow/topic/vehicle.html](https://www.cdc.gov/publichealthgateway/didyouknow/topic/vehicle.html)
+1. [https://www.cdc.gov/injury/features/global-road-safety/index.html](https://www.cdc.gov/injury/features/global-road-safety/index.html)
 2. [https://www.wsdot.wa.gov/mapsdata/crash/pdf/2015_Annual_Collision_Summary.pdf](https://www.wsdot.wa.gov/mapsdata/crash/pdf/2015_Annual_Collision_Summary.pdf)
