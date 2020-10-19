@@ -27,6 +27,12 @@ The dataset used for this project is a comprehensive dataset of 194,673 accident
 
 # 3. Methodology
 ## 3.1. Data Exploration
+First of all, find the percentage of nan value in the chosen features. Here is the result
+We can see that SPEEDING and INATTENTIONIND have a lot of nan value, so remove two columns as well row that have at least one nan value.
+Next, for all other features, explore the value and remove rows that have "Unknown" or "Other" values.
+Then for UNDERINFL, since it displayed two type of YES/No answer: "1", "0", "YES", "NO", change all value "YES" to "1" and "NO" to "0" to be consistent.
+After that, one-hot-encoded the data set using get dummies
+Finally, divide the dataset into training set (75%) and test set (25%)
 ## 3.2. Model Development and Evaluation
 
 # 4.Result
